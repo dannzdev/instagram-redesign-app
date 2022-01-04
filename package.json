@@ -1,0 +1,25 @@
+{
+  "name": "instagram-redesign-app",
+  "version": "1.0.0",
+  "description": "Instragram redesign with neomorphism",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannzdev/instagram-redesign-app.git"
+  },
+  "keywords": [
+    "React",
+    "javscript",
+    "styled-components",
+    "neomorphism"
+  ],
+  "author": "Daniel Sanchez <danielsanchez102@gmail.com@>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dannzdev/instagram-redesign-app/issues"
+  },
+  "homepage": "https://github.com/dannzdev/instagram-redesign-app#readme"
+}
