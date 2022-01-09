@@ -1,13 +1,13 @@
 import React from "react";
-
+import Title from "../container/Title";
+import Wrapper from "../container/Wrapper";
 const App = () => {
     return (
-        <div>
-            <h1>Username</h1>
-            <p>Followers</p>
-            <div>Media</div>
-
-        </div>
+            <Wrapper>
+              <Title>
+                Hello World!
+              </Title>
+            </Wrapper>
     )
 }
 
