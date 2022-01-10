@@ -1,14 +1,5 @@
 import React from "react";
-import Title from "../container/Title";
-import Wrapper from "../container/Wrapper";
-const App = () => {
-    return (
-            <Wrapper>
-              <Title>
-                Hello World!
-              </Title>
-            </Wrapper>
-    )
-}
+import Background from "../components/Background";
 
+const App = () => <Background />
 export default App;
